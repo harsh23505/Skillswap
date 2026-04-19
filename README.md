@@ -1,6 +1,3 @@
-## 🚀 Live Demo
-https://skillswap-x0uh.onrender.com/
-
 ## 💡 Features
 - Skill exchange system
 - AI-based matching
